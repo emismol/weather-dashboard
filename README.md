@@ -3,4 +3,4 @@ Create an application so that a traveler can see the weather outlook for multipl
 
 ![image](/weatherpic.png)
 
-Link to application:
+Link to application: https://emismol.github.io/weather-dashboard/
